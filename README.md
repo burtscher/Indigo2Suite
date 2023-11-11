@@ -6,4 +6,4 @@ Indigo2 consists of hundreds of different implementations for 6 graph algorithms
 This repo provides the codes, small inputs, and scripts to test the codes. The `run_codes.py` take the code directory, input directory, programming model (0 is C++ Threads, 1 is OpenMP, and 2 is CUDA) as inputs to run the codes through a set of inputs. You can also download larger inputs by the download script.
 
 Example command:
-* python run_codes.py codes/cuda/bfs-cuda/ small-inputs 2
+* python run_codes.py codes/cuda/bfs-cuda/ small-inputs/ 2
