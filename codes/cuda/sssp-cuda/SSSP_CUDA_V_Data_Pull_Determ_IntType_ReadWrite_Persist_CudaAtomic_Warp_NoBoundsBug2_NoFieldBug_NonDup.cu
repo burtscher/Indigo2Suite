@@ -1,5 +1,5 @@
 /*
-This file is part of the Indigo2 benchmark suite version 0.9.
+This file is part of the Indigo2 benchmark suite version 1.0.
 
 Copyright (c) 2023, Yiqian Liu, Noushin Azami, Avery Vanausdal, and Martin Burtscher
 

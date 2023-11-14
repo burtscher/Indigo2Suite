@@ -1,4 +1,6 @@
-# This file is part of the Indigo2 benchmark suite version 0.9.
+#!/usr/bin/python3 -u
+
+# This file is part of the Indigo2 benchmark suite version 1.0.
 
 # Copyright (c) 2023, Yiqian Liu, Noushin Azami, Avery Vanausdal, and Martin Burtscher
 
@@ -32,9 +34,6 @@
 # Publication: This work is described in detail in the following paper.
 
 # Yiqian Liu, Noushin Azami, Avery Vanausdal, and Martin Burtscher. "Choosing the Best Parallelization and Implementation Styles for Graph Analytics Codes: Lessons Learned from 1106 Programs." Proceedings of the 2023 ACM/IEEE International Conference for High Performance Computing, Networking, Storage, and Analysis. November 2023.
-
-
-#!/usr/bin/python3 -u
 
 import os
 import sys
