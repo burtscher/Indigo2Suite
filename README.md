@@ -18,4 +18,6 @@ Example command:
 
 **Summary**: Indigo2 is a suite of 1106 versions of 6 key graph algorithms that are based on 13 parallelization and implementation styles as well as meaningful combinations thereof. The paper analyzes these irregular codes on a set of input graphs from different domains to determine which styles should be used, under what circumstances, and with which other styles they should be combined for best performance. The paper suggests a number of programming guidelines for developing efficient parallel programs.
 
+You may also be interested in the predecessor [Indigo](https://cs.txstate.edu/~burtscher/research/IndigoSuite/) suite.
+
 *This work has been supported in part by the National Science Foundation under Grant No. 1955367 as well as by an equipment donation from NVIDIA Corporation.*
